@@ -6,7 +6,7 @@
 
 **Lightning-fast • Professional • Local**  
 **Deception Bay QLD 4508** – Serving Brisbane Northside  
-90-day warranty • Most repairs 24–48 hrs • Micro-soldering experts
+90-day warranty • Most repairs 24–48hrs (includes shipping amd handling)  • Micro-soldering experts
 
 </div>
 
@@ -47,30 +47,15 @@
 
 </div>
 
-### 🌐 Live Website
+ 🌐 Live Website
 
 https://nicksamele780-hash.github.io/Techfix/
 
-Modern • Mobile-first • Glassmorphism • Dark mode toggle • Fast-loading
+Modern • Customer-first • Glassmorphism • Back glass repair
 
 ### 🛠️ Tech Stack of This Repo
 
-- HTML5 + CSS3 (zero frameworks – maximum speed & control)
-- Google Fonts: Inter + Poppins
-- Responsive CSS Grid + Flexbox
-- Unsplash hero images (easy to replace)
-- Formspree / Getform contact backend
 
-### 🚀 Quick Deploy / Customise
-
-1. Fork or use this repo
-2. Edit only these lines in `index.html`:
-   - Business name / slogan
-   - Phone / email / suburb
-   - Hero background URL
-   - Form action endpoint
-3. Commit → GitHub Pages builds & deploys automatically
-4. Your professional site is live in < 60 seconds
 
 <div align="center">
 
