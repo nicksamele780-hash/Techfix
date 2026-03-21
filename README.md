@@ -1,9 +1,9 @@
-# TechFix – Sydney I.T. & Electronics Repair
+# TechFix – Brisbane I.T. & Electronics Repair
 
 ![TechFix Hero](https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1600&q=80)
 
 Fast, reliable repairs for laptops, phones, tablets, consoles, TVs, drones & all consumer electronics.  
-Sydney, NSW | 90-day warranty | Affordable pricing
+Brisbane, QLD | 90-day warranty | Affordable pricing
 
 Live site: https://yourusername.github.io/techfix (replace with your actual GitHub Pages URL)
 
@@ -37,10 +37,10 @@ Site auto-deploys on push.
 - Optional: Formspree / Getform / Netlify Forms for contact
 
 ## Contact
-- 📞 0400 123 456 (replace)
-- ✉ hello@techfix.au (replace)
-- 📍 Sydney, NSW, Australia
+- 📞 0413 959 032 
+- ✉ nicksamele780@gmail.com 
+- 📍 Brisbane, QLD, Australia
 
 © 2026 TechFix – Professional I.T. & Electronics Repairs
 
-Made with ❤️ in Sydney
+Made with ❤️ in Brisbane
