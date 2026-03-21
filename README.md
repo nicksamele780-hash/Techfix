@@ -13,7 +13,6 @@
 <br>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=1200&auto=format&fit=crop&q=80" width="700" alt="Brisbane city skyline at golden hour">
   <br><br>
   <h3>📍 Deception Bay 4508 | Brisbane North</h3>
 </div>
